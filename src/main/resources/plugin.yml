@@ -1,0 +1,7 @@
+name: hiro-plugin
+version: '${project.version}'
+main: com.nbucciarelli.Main
+api-version: 1.19
+authors: [ NazarenoBucciarelli ]
+description: This is my first plugin made for my server.
+website: nbucciarelli.web.app
