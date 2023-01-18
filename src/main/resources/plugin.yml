@@ -5,3 +5,8 @@ api-version: 1.19
 authors: [ NazarenoBucciarelli ]
 description: This is my first plugin made for my server.
 website: nbucciarelli.web.app
+commands:
+  bet:
+    description: You bet the item that you have in your hand. There is 50% probability to win the double amount of the item, or lose it all.
+    usage: /bet
+    aliases: apostar
